@@ -30,9 +30,8 @@ Checkout this website Mathnasium
 Check out this website Evalueserve
 
 # Images
-Northen Light : ![northernlights](img1.jpeg)
-cherryblossm :![northernlights](img2.jpeg)
-Snow : ![northernlights](img3.jpeg)
+Northen Light : ![northernlights](img1.jpeg)   cherryblossm :![northernlights](img2.jpeg)  
+Snow : ![northernlights](img3.jpeg)  
 
 # code
 
