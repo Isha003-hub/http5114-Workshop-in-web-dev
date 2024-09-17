@@ -30,6 +30,31 @@ Checkout this website Mathnasium
 Check out this website Evalueserve
 
 # Images
-![northernlights](img1.jpeg)
-cherryblossm : 
-Snow 
+Northen Light : ![northernlights](img1.jpeg)
+cherryblossm :![northernlights](img2.jpeg)
+Snow : ![northernlights](img3.jpeg)
+
+# code
+
+We can put inline code by using a tic.
+to add an image use an <img> tag.
+You can add multi-line code by using three tics and the coding Language.
+
+```javascript```
+function test()
+{
+    console.log("test");
+}
+
+# Table 
+
+| Language  | Rating |
+|---------- |--------|
+|Javascript | 7      |
+|Python     | 5      |
+|SQL        | 6      |
+
+# GitHub Flavour
+![Note]
+This is note!
+ 
