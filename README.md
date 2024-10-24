@@ -1,12 +1,15 @@
-# http5114-2024
-Files from HTTP5114 course.
+# HTTP-5110 - Intro to Web Development
 
-Make a Change!
+Welcome to the HTTP-5114 Workshops in Web Development repository! This repository contains all assignments, lab exercises, and practice files related to the course, focusing on essential web development skills.
 
-## Starting a New Project
-1. Make a new repo on github.com
-2. open Your Terminal.
-3. Navigate your Terminal to Project Destination.
-4. Clone The Repo.
-5. Change Directory into the new folder
-6. Open VSCode and point it to the same folder. 
+<img src="./image/img.jpg" width="180" height="150">
+
+> *Note:*  Explore my work on GitHub: https://github.com/Isha003-hub
+
+## Git Command Example
+
+Here’s a simple Git command example to check your Git version:
+
+```bash
+git status
+```
